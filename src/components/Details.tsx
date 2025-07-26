@@ -154,11 +154,18 @@ const Details = ({
       </a>
 
       <a
+        href="https://prabhakar-profile.vercel.app/"
+        target="_blank"
+        className="font-secondary text-primary text-center mt-4 text-xs"
+      >
+        Made with 💝 by <span className="underline">Prabhakar Naik</span>
+      </a>
+       <a
         href="https://pavanbhaskar.com"
         target="_blank"
         className="font-secondary text-primary text-center mt-4 text-xs"
       >
-        Made with 💝 by <span className="underline">Pavan Bhaskar</span>
+        and <span className="underline">Pavan Bhaskar</span>
       </a>
     </section>
   );
